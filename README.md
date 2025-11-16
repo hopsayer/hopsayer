@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hopsayer&show_icons=true&theme=dark)
-
 ![Profile views](https://komarev.com/ghpvc/?username=hopsayer&color=blue&style=flat-square&label=Profile+Views)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hopsayer&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hopsayer&theme=dark)](https://git.io/streak-stats)
 
