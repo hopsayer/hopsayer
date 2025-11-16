@@ -1,6 +1,7 @@
----
+--- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Open+Source+Enthusiast)](https://git.io/typing-svg)
----
+
+--- 
 
 <!--
 **hopsayer/hopsayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
