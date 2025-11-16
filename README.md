@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ## Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=hopsayer&color=blue&style=flat-square&label=Profile+Views)
+![GitHub stars](https://img.shields.io/github/stars/hopsayer/vless-win-starter-simple?style=social)
+![GitHub forks](https://img.shields.io/github/forks/hopsayer/vless-win-starter-simple?style=social)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hopsayer&show_icons=true&theme=dark)
 
