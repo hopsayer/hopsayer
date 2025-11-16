@@ -30,6 +30,3 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 
----
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhopsayer%2Fvless-win-starter-simple&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
-![](https://visitor-badge.laobi.icu/badge?page_id=hopsayer.vless-win-starter-simple)
