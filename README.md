@@ -1,7 +1,13 @@
 --- 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Open+Source+Enthusiast)](https://git.io/typing-svg)
+Enthusiast in:
+- Open source
+- Linux
+- Linux gaming
+- Networks
+- Security applicable for real usage
+- UX fine-tuning
+- Android tweaking and securing
 
 --- 
 
@@ -23,10 +29,14 @@ Here are some ideas to get you started:
 ## Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=hopsayer&color=blue&style=flat-square&label=Profile+Views)
+
 ![GitHub stars](https://img.shields.io/github/stars/hopsayer)
-![GitHub forks](https://img.shields.io/github/forks/hopsayer)
+
+<!--![GitHub forks](https://img.shields.io/github/forks/hopsayer)-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hopsayer&show_icons=true&theme=dark)
+
+[GitHub contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hopsayer&theme=github_dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hopsayer&theme=dark)](https://git.io/streak-stats)
 
