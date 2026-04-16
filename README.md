@@ -1,4 +1,4 @@
---- 
+
 
 Enthusiast in:
 - Open source
@@ -8,8 +8,6 @@ Enthusiast in:
 - Security applicable for real usage
 - UX fine-tuning
 - Android tweaking and securing
-
---- 
 
 <!--
 **hopsayer/hopsayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
