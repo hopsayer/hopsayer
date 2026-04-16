@@ -1,11 +1,20 @@
 ## Enthusiast in:
-- Open source
-- Linux
-- Linux gaming
-- Networks
-- Security applicable for real usage
-- UX fine-tuning
-- Android tweaking and securing
+- Open source: usage, adoption, contributing
+- Linux: real-world usage, convenience, adoption
+- Linux gaming (as a separate major focus)
+- Networking
+- Security without sacrificing usability
+- UX fine-tuning: GNOME integration, icons, tray consistency, user systemd units, scripts/utilities
+- Android tweaking & hardening
+- DIY
+
+## Preferences
+Like:
+- Clean, vanilla solutions
+
+Dislike:
+- \*nix p\*rn
+
 
 <!--
 **hopsayer/hopsayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,8 +37,8 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hopsayer&show_icons=true&theme=dark)
 ![GitHub contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hopsayer&theme=github_dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hopsayer&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hopsayer&layout=compact&theme=dark)
 
 <!--![GitHub forks](https://img.shields.io/github/forks/hopsayer)-->
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=hopsayer&theme=dark)](https://git.io/streak-stats)-->
