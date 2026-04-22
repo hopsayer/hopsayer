@@ -9,12 +9,9 @@
 - DIY
 
 ## Preferences
-Like:
-- Clean, vanilla solutions
-
-Dislike:
-- \*nix p\*rn
-
+| Like: | Dislike: |
+|---|---|
+| Clean, vanilla, minimalistic solutions | \*nix p\*rn |
 
 <!--
 **hopsayer/hopsayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
