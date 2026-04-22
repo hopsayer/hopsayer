@@ -1,12 +1,15 @@
 ## Enthusiast in:
 - Open source: usage, adoption, contributing
 - Linux: real-world usage, convenience, adoption
-- Linux gaming (as a separate major focus)
+- Linux gaming: adoption, explanation
 - Networking
-- Security without sacrificing usability
-- UX fine-tuning: GNOME integration, icons, tray consistency, user systemd units, scripts/utilities
+- Security + Usability
+- UX fine-tuning: apps-DE integration/UI consistency,
+- Automation: systemd/scripting, utilities/tooling
 - Android tweaking & hardening
-- DIY
+- DIY culture
+
+<!--- (icons, tray, more) -->
 
 ## Preferences
 | Like: | Dislike: |
