@@ -16,6 +16,7 @@
 |---|---|
 | Clean, vanilla, minimalistic solutions | \*nix p\*rn |
 | Color consistency | black theming |
+| Drowning in interesting non-commercial projects | get paid |
 
 <!--
 **hopsayer/hopsayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
