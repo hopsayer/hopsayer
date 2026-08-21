@@ -1,8 +1,20 @@
+## Occupation
+- Currently unemployed
+- Experience (official):
+  - QA/Bug/UX Tester
+  - Cloud VPS Tech Support L2
+- Current focus:
+  - Small local AI models (using, task-adapting, omnifying via pipelining)
+  - Censorship loving
+
 ## Enthusiast in:
 - Open source: usage, adoption, contributing
-- Linux: real-world usage, convenience, adoption
+  - Bug reports
+  - QoL/UX feature requests/mockups
+- AI coding of own apps (not a "vibe" coding though. I understand patterns and standards, what's possible/reasonable and what's clearly not. The machine must _prove_ it's right)
+- Linux: universal real-world usage, convenience, adoption
 - Linux gaming: adoption, explanation
-- Networking
+- Networking, self-hosting
 - Security + Usability
 - UX fine-tuning: apps-DE integration/UI consistency,
 - Automation: systemd/scripting, utilities/tooling
@@ -15,12 +27,10 @@
 | Like: | Dislike: |
 |---|---|
 | Clean, vanilla, minimalistic solutions | \*nix p\*rn |
-| Color consistency | black theming |
+| Color consistency | Inconsistent black theming |
 | Drowning in interesting non-commercial projects | get paid |
 
 <!--
-**hopsayer/hopsayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
