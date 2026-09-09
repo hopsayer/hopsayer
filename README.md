@@ -11,7 +11,7 @@
 - Open source: usage, adoption, contributing
   - Bug reports
   - QoL/UX feature requests/mockups
-- AI coding of own apps (not a "vibe" coding though. I understand patterns and standards, what's possible/reasonable and what's clearly not. The machine must _prove_ it's right)
+- Making own straightforward minimalistic apps with minimal dependencies and sharp scope vision
 - Linux: universal real-world usage, convenience, adoption
 - Linux gaming: adoption, explanation
 - Networking, self-hosting
