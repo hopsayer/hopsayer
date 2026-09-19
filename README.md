@@ -10,18 +10,16 @@
 ## Enthusiast in:
 - Open source: usage, adoption, contributing, advocation, testing
   - Bug reports
-  - QoL/UX feature requests/mockups
+  - Feature requests
+  - UX/UI mockups
   - Pinpoint PRs
   - Documentation
   - Internationalization
   - Solutions discussion
-- Making own straightforward minimalistic apps with minimal dependencies and sharp scope vision
-- Linux: universal real-world usage, convenience, adoption
-- Linux gaming: adoption, explanation
-- Networking, self-hosting
-- Security + Usability
-- UX fine-tuning: apps-DE integration/UI consistency
-- Automation: systemd/scripting, utilities/tooling
+- Own min-dep GUI apps meeting KISS scope style (network/local-ai)
+- Linux: integration, UX, gaming, universal real-world usage
+- Networking, Security, self-hosting
+- Automation: `systemd-user`-units, `~/.local/bin`/nautilus-scripts
 - Android tweaking & hardening
 - DIY culture
 
