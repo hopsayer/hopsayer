@@ -8,20 +8,37 @@
   - Censorship loving
 
 ## Enthusiast in:
-- Open source: usage, adoption, contributing
+- Open source: usage, adoption, contributing, advocation, testing
   - Bug reports
   - QoL/UX feature requests/mockups
+  - Pinpoint PRs
+  - Documentation
+  - Internationalization
+  - Solutions discussion
 - Making own straightforward minimalistic apps with minimal dependencies and sharp scope vision
 - Linux: universal real-world usage, convenience, adoption
 - Linux gaming: adoption, explanation
 - Networking, self-hosting
 - Security + Usability
-- UX fine-tuning: apps-DE integration/UI consistency,
+- UX fine-tuning: apps-DE integration/UI consistency
 - Automation: systemd/scripting, utilities/tooling
 - Android tweaking & hardening
 - DIY culture
 
-<!--- (icons, tray, more) -->
+## Tools ever dealt with: 
+GNU/Linux, Bash, kernel (custom-build, debug, netconsole), Linux Graphics Path (X11/Wayland, GBM, EGL, DRI/DRM, SDL), Wine/Proton debug,packaging
+Git GitHub Gitea Gitlab
+GutHub-Actions TeamCity Jenkins
+Virsh Virt-manager VirtualBox VMWare Workstation
+Docker
+NetData, Zabbix, Grafana, Influx, Telegraf
+Jmeter Postman
+Kafka, D-Bus
+HTML CSS Markdown Hugo
+SQL MySQL MariaDB
+Python Django Flask
+Java Kotlin
+C++ Qt C Rust
 
 ## Preferences
 | Like: | Dislike: |
